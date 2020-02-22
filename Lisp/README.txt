@@ -1,6 +1,3 @@
-partecipanti:	
-	Magazzù Gaetano 829685
-
 introduzione:
 	LMC(Little Man Computer) è
 	un semplice modello di computer con:
